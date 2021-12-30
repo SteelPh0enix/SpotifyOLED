@@ -9,7 +9,7 @@ Displayed stuff:
 * Current status (playing/stopped)
 * Progress bar
 
-[pic rel](./pic.jpg)
+![pic rel](./pic.jpg)
 
 ## How to run
 
